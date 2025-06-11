@@ -27,7 +27,7 @@ Make sure the following are installed:
 - Python 3.8+
 - PostgreSQL 13+
 - Git
-- (Optional) Trained XGBoost model file: `best_movie_success_model.pkl`
+- Trained XGBoost model file: `best_movie_success_model.pkl`
 
 ---
 
